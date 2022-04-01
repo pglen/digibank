@@ -1,8 +1,0 @@
-No: 'Begin Diba File. Ver: 1 Sub: 1
-'
-Yes: 'key str'
-No: 'value 1'
-Yes: 'key str2'
-No: 'value 2'
-No: 'End Diba File.
-'
