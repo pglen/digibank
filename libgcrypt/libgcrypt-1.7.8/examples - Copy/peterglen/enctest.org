@@ -1,0 +1,8 @@
+Decrypted message -> (94 bytes)
+'Test
+
+This is a sample text to encrypt. It is a text file
+with some characters in it.
+
+
+'

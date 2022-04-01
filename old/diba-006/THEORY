@@ -1,0 +1,68 @@
+                        DIBA OPERATIONAL THEORIES
+
+   The operational theory of the initial currency allocation:
+   
+   The sum of projected global wealth is allocated into 100 trillion 
+DCU (diba currency unit) in hashes. 
+The 100 trillion DCU will each have 1000 child items in the billion section 
+and the billon DCU will have 1000 child items in the million section ... 
+all the way down to the single DCU.
+The currency itself is represented by a hash and its position in the 
+currency tree. (its parent relations)
+  
+        1                   Single 
+        1,000               Thousand
+        1,000,000           Million
+        1,000,000,000       Billion
+        1,000,000,000,000   Trillion
+        
+  Matching directory structure is created (first two letters used):
+            
+   ./Trillion/Billion/Million/Thousand/Single
+    
+For example, the first 10 DCU-s would be: 
+    
+  ./currency/Tr_0/Bi_0/Mi_0/Th_0/Si_0 
+                                /Si_1
+                                 ... 
+                                /Si_9 
+                                  
+The currency hash can represent arbitrary amount within its directory
+domain, limited to that directory domain.
+    
+ The global supply may be distributed on different servers, each responsible
+on maintaining a different part of the tree.
+      
+  DCU Currency value: The mean value calculated on the basis of survival
+related items. Here is an example short list, but detailed discussion
+can be found in a separate document.
+    
+    Baked Bread, Milk, Fruit, Coffee, Eggs, Bacon, Ground Meat,
+    Sugar.
+        
+   The operational theory of the transaction is ...
+   
+ The currency is transferred from chest to chest. (address to address) The initial 
+currency owner is NONE, a fictitions chestthat is created at the bank's inception.
+Currency itself is acquired from the global pool, and ownership of that 
+currency is assigned to the chest. (address or user) The pool item is marked
+ with the owner's chest address.
+  
+  The operational theory of the block chain:
+  
+   (work in progress)
+    o New blocks are broadcast to all nodes.
+    o Each node works on finding a proof-of-work for its block.
+    o When a node finds a proof-of-work, it broadcasts the block to all nodes.
+    o Nodes accept the block only if it is valid, and not already spent / present.
+    o Nodes express their acceptance of the block.
+    o working on creating the next block in the chain, using the hash 
+    o of the accepted block as the previous hash
+
+
+
+
+
+
+
+

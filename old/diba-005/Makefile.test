@@ -1,0 +1,24 @@
+# This makefile usues a bare minimum of features. Can be run both on windows
+# and posix  tools with a help of batch files.
+
+# GCC will error check better than cl, use for build test
+#CC=gcc
+#COMPILE=bash compile.sh
+
+# However, one can proceed with the windows free tools as well
+CC=cl
+OPT=/nologo 
+COMPILE=cmd /c compile.bat
+
+# ----------------------------------------------------------------------------------
+      
+HEADERS=bluepoint2.h diba.h
+
+all: test_blue2.exe
+
+test_blue2.exe:   test_blue2.c block_blue2.c $(HEADERS)
+	$(COMPILE) $(CC) $(OPT) test_blue2.c bluepoint2.c  dibautils.c
+
+clean:
+	rm *.exe
+

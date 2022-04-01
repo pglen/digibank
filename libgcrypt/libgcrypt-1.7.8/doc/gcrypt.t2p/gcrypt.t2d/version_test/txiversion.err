@@ -1,0 +1,12 @@
+name = cmr10, rootname = cmr, pointsize = 10
+mktexmf: empty or non-existent rootfile!
+
+kpathsea: Running mktexmf cmr10.mf
+
+The command name is c:\texlive\2017\bin\win32\mktexmf
+Cannot find cmr10.mf.
+
+kpathsea: Running mktextfm cmr10
+
+The command name is c:\texlive\2017\bin\win32\mktextfm
+kpathsea: Appending font creation commands to missfont.log.

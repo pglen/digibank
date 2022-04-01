@@ -1,0 +1,23 @@
+table[82]  = ' ';
+    table[151] = 'e';
+    table[161] = 'r';
+    table[58]  = 't';
+    table[160] = 's';
+    table[147] = 'n';
+    table[149] = 's';
+    table[155] = 'h';
+    table[127] = 'r';
+    table[158] = 'd';
+    table[164] = 'l';
+    table[123] = 'c';
+    table[142] = 'u';
+    table[143] = 'm';
+    table[150] = 'w';
+    table[153] = 'f';
+    table[165] = 'g';
+    table[134] = 'y';
+    table[135] = 'p';
+    table[136] = 'b';
+    table[137] = 'v';
+    
+

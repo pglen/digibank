@@ -1,0 +1,3 @@
+-----BEGIN CERTIFICATE REQUEST----- and -----END CERTIFICATE REQUEST----- show a CSR in PEM format.
+-----BEGIN RSA PRIVATE KEY----- and -----END RSA PRIVATE KEY----- show a private key in PEM format.
+-----BEGIN CERTIFICATE----- and -----END CERTIFICATE----- show a certificate file in PEM format. 

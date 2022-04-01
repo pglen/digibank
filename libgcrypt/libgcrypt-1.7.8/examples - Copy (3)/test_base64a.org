@@ -1,0 +1,7 @@
+org: len=180
+'Hello world. Hello world. Hello world. Hello world. Hello world. Hello world. Hello world.Hello world. Hello world. Hello world. Hello world. Hello world. Hello world. Hello world.'
+
+base64 encode outlen=240
+'SGVsbG8gd29ybGQuIEhlbGxvIHdvcmxkLiBIZWxsbyB3b3JsZC4gSGVsbG8gd29ybGQuIEhlbGxvIHdvcmxkLiBIZWxsbyB3b3JsZC4gSGVsbG8gd29ybGQuSGVsbG8gd29ybGQuIEhlbGxvIHdvcmxkLiBIZWxsbyB3b3JsZC4gSGVsbG8gd29ybGQuIEhlbGxvIHdvcmxkLiBIZWxsbyB3b3JsZC4gSGVsbG8gd29ybGQu'
+base64 decode dlen=180
+'Hello world. Hello world. Hello world. Hello world. Hello world. Hello world. Hello world.Hello world. Hello world. Hello world. Hello world. Hello world. Hello world. Hello world.'

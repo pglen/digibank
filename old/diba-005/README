@@ -1,0 +1,43 @@
+Digital Bank
+
+ Crypto currency. 
+ 
+NOTE
+
+  Only items in the 'transport' directory are funtional. The rest is under 
+development. See individual subdirs for more README-s.
+ 
+BUILD
+
+ All the files are built on Windows using MSYS and MinGW. The files should
+build on linux and variants with little modification.
+ 
+PREP
+
+ Build the glibcrypt library first. This project will look for the built
+libs and includes in the .lib subdir under the original build directories.
+This allows installation-less build. (for test and experimentation)
+
+Make sure you update references when building new library versions.
+
+STRUCTURE
+
+  The directories are arranged as follows
+  
+   ./diba                                 - study cases for now
+   ./diba/tools                           - dependency
+   ./diba/transport                       - asymmetric encryption
+   ./diba/bluepoint                       - dependency
+   ../libgcrypt/libgcrypt-1.7.8           - dependency
+   ../libgcrypt/libgpg-error-1.27         - dependency
+ 
+  
+Files:
+
+diba.h              Header for the central items        
+dibadec.c           Decode stuff
+dibagen.c           Generate token
+dibapow.c           Proof of work feasability
+digibank.c          Feasability study for digibank
+
+

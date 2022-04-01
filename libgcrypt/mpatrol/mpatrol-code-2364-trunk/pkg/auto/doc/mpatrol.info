@@ -1,0 +1,193 @@
+This is mpatrol.info, produced by makeinfo version 4.13 from
+mpatrol.texi.
+
+INFO-DIR-SECTION Programming tools
+START-INFO-DIR-ENTRY
+* mpatrol: (mpatrol).           The mpatrol library.
+END-INFO-DIR-ENTRY
+
+   This file documents mpatrol, a library for controlling and tracing
+dynamic memory allocations.
+
+   Copyright (C) 1997-2008 Graeme S. Roy
+<graemeroy@users.sourceforge.net>
+
+   This is edition 2.17 of the mpatrol manual for version 1.5.1, 19th
+December, 2008.
+
+   Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.
+
+   Permission is granted to copy and distribute modified versions of
+this manual under the conditions for verbatim copying, provided that
+the entire resulting derived work is distributed under the terms of a
+permission notice identical to this one.
+
+   Permission is granted to copy and distribute translations of this
+manual into another language, under the above conditions for modified
+versions, except that this permission notice may be stated in a
+translation approved by the Free Software Foundation.
+
+   All product names mentioned in the documentation and source code for
+this library are the trademarks of their respective owners.
+
+
+Indirect:
+mpatrol.info-1: 1274
+mpatrol.info-2: 286349
+mpatrol.info-3: 585157
+
+Tag Table:
+(Indirect)
+Node: Top1274
+Node: Foreword3878
+Node: Overview10096
+Node: Features13089
+Node: Installation35717
+Ref: Installation-Footnote-144474
+Node: Integration44606
+Node: Adding mpatrol45069
+Ref: Adding mpatrol-Footnote-153324
+Node: Removing mpatrol53445
+Node: Memory allocations55900
+Node: Static memory allocations56578
+Ref: Static memory allocations-Footnote-159044
+Node: Stack memory allocations59086
+Ref: Stack memory allocations-Footnote-160955
+Node: Dynamic memory allocations60994
+Ref: Dynamic memory allocations-Footnote-164421
+Ref: Dynamic memory allocations-Footnote-264540
+Node: Operating system support64644
+Node: Virtual memory66606
+Ref: Virtual memory-Footnote-172639
+Ref: Virtual memory-Footnote-272895
+Ref: Virtual memory-Footnote-373071
+Ref: Virtual memory-Footnote-473106
+Ref: Virtual memory-Footnote-573165
+Node: Call stacks and symbol tables73389
+Ref: Call stacks and symbol tables-Footnote-179509
+Ref: Call stacks and symbol tables-Footnote-279577
+Ref: Call stacks and symbol tables-Footnote-379628
+Ref: Call stacks and symbol tables-Footnote-479672
+Ref: Call stacks and symbol tables-Footnote-579714
+Ref: Call stacks and symbol tables-Footnote-679756
+Ref: Call stacks and symbol tables-Footnote-779804
+Node: Threads79910
+Ref: Threads-Footnote-185921
+Node: Using mpatrol86016
+Node: Library behaviour86879
+Ref: Library behaviour-Footnote-194104
+Node: Logging and tracing94162
+Node: General errors99852
+Node: Overwrites and underwrites104181
+Ref: Overwrites and underwrites-Footnote-1112625
+Ref: Overwrites and underwrites-Footnote-2112688
+Node: Using with a debugger112812
+Ref: Using with a debugger-Footnote-1122163
+Ref: Using with a debugger-Footnote-2122231
+Ref: Using with a debugger-Footnote-3122487
+Node: Testing122576
+Ref: Testing-Footnote-1125318
+Ref: Testing-Footnote-2125499
+Node: Library functions125558
+Ref: Library functions-Footnote-1147319
+Node: Leak table147427
+Node: Tools154368
+Node: dbmalloc156214
+Ref: dbmalloc-Footnote-1159410
+Node: dmalloc159471
+Ref: dmalloc-Footnote-1163303
+Node: heapdiff163359
+Node: mgauge167851
+Node: mtrace170028
+Node: Utilities171329
+Node: The mpatrol command172296
+Ref: The mpatrol command-Footnote-1178984
+Ref: The mpatrol command-Footnote-2179118
+Node: The mleak command179198
+Node: The mpsym command181897
+Node: The mpedit command184664
+Node: The hexwords command188091
+Node: Profiling191449
+Ref: Profiling-Footnote-1219126
+Ref: Profiling-Footnote-2219263
+Ref: Profiling-Footnote-3219487
+Node: Tracing219591
+Ref: Tracing-Footnote-1241226
+Ref: Tracing-Footnote-2241260
+Node: Heap corruption241366
+Node: Memory leaks256790
+Ref: Memory leaks-Footnote-1264457
+Node: Improving performance264555
+Ref: Improving performance-Footnote-1274025
+Ref: Improving performance-Footnote-2274067
+Ref: Improving performance-Footnote-3274144
+Ref: Improving performance-Footnote-4274216
+Ref: Improving performance-Footnote-5274312
+Node: How it works274356
+Node: Examples282067
+Node: Example 1286349
+Ref: Example 1-Footnote-1311655
+Node: Example 2311845
+Node: Example 3317261
+Node: Example 4324778
+Node: Example 5328480
+Node: Example 6330854
+Ref: Example 6-Footnote-1334635
+Node: Example 7334764
+Node: Example 8336589
+Node: Example 9346532
+Node: Example 10350823
+Node: Tutorial367036
+Ref: Tutorial-Footnote-1381950
+Ref: Tutorial-Footnote-2382241
+Ref: Tutorial-Footnote-3382390
+Ref: Tutorial-Footnote-4382527
+Ref: Tutorial-Footnote-5382626
+Node: Functions382907
+Node: Functions 1384808
+Node: Functions 2402402
+Node: Functions 3406180
+Node: Functions 4411269
+Node: Functions 5414936
+Node: Functions 6420794
+Node: Environment442463
+Node: Options464236
+Node: Diagnostic messages476376
+Node: Library performance494887
+Node: File formats497355
+Ref: File formats-Footnote-1497798
+Node: Profiling file format498010
+Node: Tracing file format501277
+Node: Supported systems505217
+Node: Porting523044
+Ref: Porting-Footnote-1550317
+Ref: Porting-Footnote-2550526
+Ref: Porting-Footnote-3550668
+Node: Notes550826
+Node: Generic notes552442
+Ref: Generic notes-Footnote-1573504
+Ref: Generic notes-Footnote-2573893
+Ref: Generic notes-Footnote-3574061
+Ref: Generic notes-Footnote-4574130
+Node: UNIX notes574352
+Ref: UNIX notes-Footnote-1579226
+Node: Amiga notes579448
+Node: Windows notes583117
+Node: Netware notes585157
+Node: Frequently asked questions587722
+Node: Documentation588364
+Node: Building593008
+Node: Linking603110
+Node: Running609775
+Node: Files626202
+Node: Related software629141
+Ref: Related software-Footnote-1673543
+Node: References673761
+Node: About the author677538
+Node: Copying679967
+Node: Function index726308
+Node: Main index732802
+
+End Tag Table

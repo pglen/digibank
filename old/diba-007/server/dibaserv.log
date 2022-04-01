@@ -1,0 +1,155 @@
+Diba Worker [3760] 2018/02/25 11:48:50 from 127.0.0.1 on port 50100
+Got key cmd: 'key'
+Created public key.
+Got echo cmd: 'echo SQiCHnRK1ieXj76r/OUpVsvqG+jBejgS+vxxEXEpokVp92X+pw=='
+Got sess cmd: 'session +mag0BIk7xUWr0KC/RYGs3TxJn4+06jn58MWYXylM8mxVCwmM4/e'
+Sending rand key: 'Rp19PKdIccCTtllVmSUoLoKbJRmt5inwWnBQpNtfrngokE3ep02skq8ZX+8aoFKyvdl/7+tpGlodQgMECsLFUQvAwqAsTcZHxC6yNZ0UC2zVCgYI1AnCbPTwoRVftHPdftIaXZM3wFWUUkdo/jyBXFyqT+/s81mR49r8SDNhf+E='
+Got unknown cmd: 'echo SQiCHnRK1ieXj76r/OUpVsvqG+jBejgS+vxxEXEpokVp92X+pw=='
+Got unknown cmd: 'lf0qEskv3YGyb+PHC6H/otEuSdW/fDdQRVVi09wrP+7y29B6JwiVdUd7w5cH0noe
+4wh1aqnb44Di56LVkLzgsL0Xjnuxc463uWAfCBh3h+J1pE0bkTczoA3yz29KhxGs
+nOeYK3y7/92DabBk6uK2+WJSyqtlJwo='
+Got unknown cmd: 'fMql6hKXLKWFAcmJ6hJyIPoVOsfUs6iIQnKRSckwX8+t1j+dBefR/o/PBakeDUUv
+huuXpKya3h09'
+Got unknown cmd: 'J7i7s2U='
+Diba Worker [3760] exited at 2018/02/25 11:48:50
+
+Diba Worker [7944] 2018/02/25 11:51:27 from 127.0.0.1 on port 50102
+Got echo cmd: 'echo 5PNWfUXZmhy9JOfhsn6ai7KjBshYyHUCmOioBII='
+Got close cmd: 'close'
+Diba Worker [7944] exited at 2018/02/25 11:51:27
+
+Diba Worker [5440] 2018/02/25 11:51:36 from 127.0.0.1 on port 50103
+Got echo cmd: 'echo NelRsd92WJH9cpd/g/h6DgXqgYlXyqqZvAQkPLGaOb3uuLdq'
+Got close cmd: 'close'
+Diba Worker [5440] exited at 2018/02/25 11:51:36
+
+Diba Worker [7704] 2018/02/25 11:51:46 from 127.0.0.1 on port 50104
+Got echo cmd: 'echo bTU/vsHZsJ/uBXDS7MUKJoVveXUvi6bthN0EYC8K2z2Pblx+eoYGMuxCp5C/'
+Got close cmd: 'close'
+Diba Worker [7704] exited at 2018/02/25 11:51:46
+
+Diba Worker [160] 2018/02/25 11:51:51 from 127.0.0.1 on port 50105
+Got echo cmd: 'echo 7r4yyBxCyY+uw5Q+r9E42bjRv6BOFevDsuR9KjCTOBGb+w=='
+Got close cmd: 'close'
+Diba Worker [160] exited at 2018/02/25 11:51:51
+
+Diba Worker [5228] 2018/02/25 11:51:57 from 127.0.0.1 on port 50106
+Got echo cmd: 'echo 3eg85SQOrFBz5mn2chG03Ak/CyBQk+axBjKwlXeK4cB3y/leLD/QyzFK5q9OE14xSGfY'
+Got close cmd: 'close'
+Diba Worker [5228] exited at 2018/02/25 11:51:57
+
+Diba Worker [7608] 2018/02/25 15:06:56 from 127.0.0.1 on port 50538
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [7608] exited at 2018/02/25 15:06:56
+
+Diba Worker [4480] 2018/02/25 15:07:01 from 127.0.0.1 on port 50539
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [4480] exited at 2018/02/25 15:07:01
+
+Diba Worker [2240] 2018/02/25 15:07:04 from 127.0.0.1 on port 50540
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [2240] exited at 2018/02/25 15:07:04
+
+Diba Worker [6904] 2018/02/25 15:18:41 from 127.0.0.1 on port 50543
+Got echo cmd: 'echo UvI9Wng44Nj40k2JOqpHS3675jylJa8R'
+Got close cmd: 'close'
+Diba Worker [6904] exited at 2018/02/25 15:18:41
+
+Diba Worker [3656] 2018/02/25 15:18:46 from 127.0.0.1 on port 50544
+Got echo cmd: 'echo vphvjZZycMyhXC3wxljU/rusRBadwhb5A2L6tww63H6wbYpFLxBwjg+5ow=='
+Got close cmd: 'close'
+Diba Worker [3656] exited at 2018/02/25 15:18:46
+
+Diba Worker [2204] 2018/02/25 15:45:01 from 127.0.0.1 on port 50559
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [2204] exited at 2018/02/25 15:45:01
+
+Diba Worker [3700] 2018/02/25 15:51:50 from 127.0.0.1 on port 50566
+Got echo cmd: 'echo Uq5xHQz6FRFEbnUO0puOoAAc1T6uNZ/c07xdL+zFxUNvCGuZuRWqc103PDmAWxuenWSuY8zH'
+Got close cmd: 'close'
+Diba Worker [3700] exited at 2018/02/25 15:51:50
+
+Diba Worker [3000] 2018/02/25 15:51:54 from 127.0.0.1 on port 50567
+Got echo cmd: 'echo Q+eLFjNMs8No0s2mK5X8LFnmG82LTb9GIADSaYbsRyrfhw=='
+Got close cmd: 'close'
+Diba Worker [3000] exited at 2018/02/25 15:51:54
+
+Diba Worker [5696] 2018/02/25 15:51:57 from 127.0.0.1 on port 50568
+Got echo cmd: 'echo H5BJvBCbwPBccmTW4MBysn/NM+qS0bDeTzQbSv6TlCT6ypoi/nAGzu89oK8='
+Got close cmd: 'close'
+Diba Worker [5696] exited at 2018/02/25 15:51:57
+
+Diba Worker [4536] 2018/02/25 15:51:59 from 127.0.0.1 on port 50569
+Got echo cmd: 'echo 2plYemGkk5/fu4cI+AeAByiQp9Ek6rkOXmpvTN37quaet/PhmqVbiWWnc7RwpW1p+yfD'
+Got close cmd: 'close'
+Diba Worker [4536] exited at 2018/02/25 15:51:59
+
+Diba Worker [6256] 2018/02/25 15:56:38 from 127.0.0.1 on port 50571
+Got echo cmd: 'echo UuLMQ0rLjLrmaz2X3VTBSGwFuKAUA5Z+'
+Got close cmd: 'close'
+Diba Worker [6256] exited at 2018/02/25 15:56:38
+
+Diba Worker [6768] 2018/02/25 15:56:50 from 127.0.0.1 on port 50572
+Got echo cmd: 'echo jV30yHKRjps/Qurpx+T9n/F0D924JrX7'
+Got close cmd: 'close'
+Diba Worker [6768] exited at 2018/02/25 15:56:50
+
+Diba Worker [6140] 2018/02/25 15:56:58 from 127.0.0.1 on port 50573
+Got echo cmd: 'echo Nac5CgezyCRNAWK4xquddQ1QK6vtcfNA2KD87rURO2hrCUg/Gcc='
+Got close cmd: 'close'
+Diba Worker [6140] exited at 2018/02/25 15:56:58
+
+Diba Worker [5196] 2018/02/25 15:57:02 from 127.0.0.1 on port 50574
+Got echo cmd: 'echo 22nzzAeasBGYO2VqiJ+XKIRzvafIHm5U5IzOm4szOe94Jg=='
+Got close cmd: 'close'
+Diba Worker [5196] exited at 2018/02/25 15:57:02
+
+Diba Worker [7276] 2018/02/25 15:57:05 from 127.0.0.1 on port 50575
+Got echo cmd: 'echo njzKSvZrl6dIQ2RALcjL6mj8gBBZNTNvz4fQinCZig=='
+Got close cmd: 'close'
+Diba Worker [7276] exited at 2018/02/25 15:57:05
+
+Diba Worker [868] 2018/02/25 16:16:32 from 127.0.0.1 on port 50588
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [868] exited at 2018/02/25 16:16:32
+
+Diba Worker [5676] 2018/02/25 16:17:35 from 127.0.0.1 on port 50589
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [5676] exited at 2018/02/25 16:17:35
+
+Diba Worker [5352] 2018/02/25 16:18:41 from 127.0.0.1 on port 50591
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [5352] exited at 2018/02/25 16:18:41
+
+Diba Worker [7228] 2018/02/25 16:23:23 from 127.0.0.1 on port 50592
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [7228] exited at 2018/02/25 16:23:23
+
+Diba Worker [76] 2018/02/25 16:24:16 from 127.0.0.1 on port 50593
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [76] exited at 2018/02/25 16:24:16
+
+Diba Worker [1944] 2018/02/25 16:25:50 from 127.0.0.1 on port 50594
+Got key cmd: 'key'
+Created public key.
+Got close cmd: 'close'
+Diba Worker [1944] exited at 2018/02/25 16:25:50
+

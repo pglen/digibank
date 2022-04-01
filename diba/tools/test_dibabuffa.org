@@ -1,0 +1,9 @@
+Key: No: 'Begin Diba File. Ver: 1 Sub: 1
+'
+Key: Yes: 'key str'
+Key: No: 'value 1'
+Key: Yes: 'key str2'
+Key: No: 'value 2'
+Key: No: 'End Diba File.
+'
+end err_str: 'End of file.'

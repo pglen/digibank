@@ -1,0 +1,33 @@
+mpatrol (1.5.1-1) unstable; urgency=low
+
+  * Packaged for 1.5.1 release.
+
+ -- Graeme Roy <graemeroy@users.sourceforge.net>  Tue, 16 Dec 2008 10:19:52 +0000
+
+mpatrol (1.5.0-1) unstable; urgency=low
+
+  * Packaged for 1.5.0 release.
+
+ -- Graeme Roy <graemeroy@users.sourceforge.net>  Wed, 16 Jul 2008 22:53:12 +0100
+
+mpatrol (1.4.8-1) unstable; urgency=low
+
+  * Packaged for 1.4.8 release.
+
+ -- Graeme Roy <graeme.roy@analog.com>  Tue, 8 Jan 2002 20:17:04 +0000
+
+mpatrol (1.4.7-1) unstable; urgency=low
+
+  * Packaged for 1.4.7 release.
+
+ -- Graeme Roy <graeme.roy@analog.com>  Wed, 5 Sep 2001 01:07:33 +0000
+
+mpatrol (1.4.5-1) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Jerome Marant <jerome@debian.org>  Fri, 29 Jun 2001 14:37:40 +0200
+
+Local variables:
+mode: debian-changelog
+End:
