@@ -7,7 +7,9 @@ No usable high level stuff, however a ton of infrastructure level 'C' code
 
 Dir Map:
 
-    directory | Description | Notes
-    ---------|-------------|------
-    diba | Old 'C' code|
-    libgcrypt | frozen | at the time of
+Directory | Description | Notes
+---------|-------------|------
+diba | Old 'C' code|
+libgcrypt | frozen | at the time of
+
+
