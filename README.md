@@ -2,5 +2,12 @@
 
 ## Foundational routines for digital banking
 
-No usable high level stuff, however a ton of infrastructure lavel 'C' code
+No usable high level stuff, however a ton of infrastructure level 'C' code
 
+
+Dir Map:
+
+    directory | Description | Notes
+    ---------|-------------|------
+    diba | Old 'C' code|
+    libgcrypt | frozen | at the time of
