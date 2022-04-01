@@ -4,13 +4,13 @@
 AC_PREREQ([2.69])
 AC_INIT([diba], [1.0.0], [no-reports-yet])
 AM_INIT_AUTOMAKE()
-#AM_INIT_AUTOMAKE([subdir-objects])
+AM_INIT_AUTOMAKE(subdir-objects)
 AC_OUTPUT(Makefile transport/Makefile keygen/Makefile tools/Makefile)
 
 #AC_CONFIG_SRCDIR([hello.c])
 #AC_CONFIG_HEADERS([config.h])
 #AC_CONFIG_FILES([Makefile])
- 
+
 # Checks for programs.
 AC_PROG_AWK
 AC_PROG_CC
@@ -20,13 +20,13 @@ AC_PROG_MAKE_SET
 
 AC_CHECK_LIB([z], compress, [],
 AC_MSG_ERROR([
-The library libz was not found. Please install the compression 
+The library libz was not found. Please install the compression
 library package
 ]))
 
 AC_CHECK_LIB([gcrypt], gcry_control, [],
 AC_MSG_ERROR([
-The library gcrypt was not found. Please install the encryption 
+The library gcrypt was not found. Please install the encryption
 library package
 ]))
 
